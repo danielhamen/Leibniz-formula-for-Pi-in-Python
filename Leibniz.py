@@ -1,6 +1,6 @@
 def Leibniz(Accuracy=1000000):
     """
-    Returns digits of Pi based off of the Gregory-Leibniz Series
+    Returns digits of Pi based off of the Gregory-Leibniz Formula
 
     args:
         Accuracy (int): The accuracy of the result. Higher values will return a more precise value, but will take longer (Recomended is at least 1000000 for a semi-precise result)
